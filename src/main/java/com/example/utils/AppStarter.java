@@ -1,7 +1,6 @@
 package com.example.utils;
 
 import com.example.controller.AppController;
-import com.example.repository.ConfigDBRepository;
 import com.example.service.AppService;
 import com.example.view.AppView;
 
